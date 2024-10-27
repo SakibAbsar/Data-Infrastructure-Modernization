@@ -1,0 +1,12 @@
+
+database:
+  host: "localhost"
+  port: 5432
+  user: "your_user"
+  password: "your_password"
+  database: "your_db"
+
+api:
+  url: "https://api.example.com/data"
+  key: "your_api_key"
+  

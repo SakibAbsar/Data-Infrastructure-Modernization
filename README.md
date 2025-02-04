@@ -2,8 +2,6 @@
 ## Overview
 This project demonstrates an end-to-end data engineering solution that supports data ingestion, transformation, quality control, real-time processing, and warehousing.
 
-## Architecture
-![Pipeline Architecture](docs/architecture_diagram.png)
 
 ## Setup and Configuration
 1. Install dependencies: `pip install -r requirements.txt`
